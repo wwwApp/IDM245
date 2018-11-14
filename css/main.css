@@ -1,0 +1,8 @@
+body {
+    background: black;
+}
+
+#phaser-canvas {
+    margin: auto;
+    max-width: 960px;
+}
